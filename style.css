@@ -1,0 +1,46 @@
+
+body {
+    background-color: white;
+
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokMrqDlVKO_FS2QhqXwj3FuQSRGmApnomVsamuCiVkQ7fTHRhlw&amp;s");
+
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    font-size: 50px;
+    margin: auto;
+}
+
+/* style all the buttons in a page */
+button {
+    width: 100px;
+    color: black;
+    vertical-align: center;
+}
+
+.default {
+    font-family: sans-serif;
+    text-align: center;
+
+    margin: auto;
+    font-size: 30px;
+}
+
+
+/*style all elements with the class “fontLarge” */
+.fontLarge{
+    font-size: 20px;
+    text-weight: bold;
+}
+
+
+h1, h2, p {
+    margin: auto;
+    text-align: center;
+    text-weight: bold;
+    color: black;
+}
